@@ -9,7 +9,6 @@ public class RocketScienceController {
 
     @GetMapping(value="/")
     public String mainPage(){
-
         return "index.html";
     }
 }

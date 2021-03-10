@@ -1,0 +1,14 @@
+body{
+    background-color: #f50a0a;
+    background-image: url("../images/space.jpeg");
+    background-position: top;
+    background-size: 1920px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 70px;
+    color: red;
+
+}
